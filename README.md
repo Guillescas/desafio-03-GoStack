@@ -14,7 +14,7 @@ Now that you have the template cloned, and ready to continue, you must open the 
 
 ```Like a listed API repository```: You should be able to reduce an item in your API via a button with the text Like and you must update the number of likes in the listing on the mobile.
 
-Link to the challenge repository from RocketSeat **[here!](https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-conceitos-react-native)
+Link to the challenge repository from RocketSeat **[here!](https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-conceitos-react-native)**
 
 ## Does Gui made it?
 
